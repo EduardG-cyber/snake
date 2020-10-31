@@ -1,0 +1,5 @@
+The game should be started on a local web server as "live-server"
+because the js files were separeted in modules and Cross-Origin
+requests are blocked by the browser.
+
+Use arrow keys to play. Enjoy!
